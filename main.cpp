@@ -222,7 +222,7 @@ void testExactBalance() {
 }
 
 int main() {
-    cout << "Testing corner Cases " << endl << endl << end;
+    cout << "Testing corner Cases " << endl << endl << endl;
 
     testNormalScenario();
     testZeroOrNegativeQuantities();
