@@ -1,0 +1,3 @@
+C:/Users/tabarak/CLionProjects/ecommerce-system-fawry-challenge/cmake-build-debug/CMakeFiles/ecommerce_system_fawry_challenge.dir
+C:/Users/tabarak/CLionProjects/ecommerce-system-fawry-challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tabarak/CLionProjects/ecommerce-system-fawry-challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
