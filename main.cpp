@@ -140,7 +140,7 @@ void testEmptyCart() {
         Cart cart;
 
         cout << "Attempting checkout with empty cart:" << endl;
-        checkout(alice, cart);
+        checkout(ahmed, cart);
     }
     catch(const std::exception& ex) {
         cout << "Expected error: " << ex.what() << endl;
