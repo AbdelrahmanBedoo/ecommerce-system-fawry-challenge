@@ -178,10 +178,3 @@ The system includes comprehensive test scenarios covering all corner cases:
 
 This project is developed for the Fawry Rise Journey Internship Challenge.
 
-##  Author
-
-Developed as part of the Fawry Quantum Internship Challenge.
-
----
-
-**Note**: This implementation demonstrates advanced C++ programming concepts and is suitable for production use in real-world e-commerce applications. 
